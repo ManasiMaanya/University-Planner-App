@@ -19,7 +19,7 @@ This is a university management system built with Python and MySQL.
   - Mark as complete
 - **Timetable**: View weekly class schedule
 
-## 🛠️Stack
+## Stack
 - **Language**: Python 3.13.9
 - **Database**: MySQL
 - **Style**: Functional programming 
